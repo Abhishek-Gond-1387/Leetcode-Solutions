@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
