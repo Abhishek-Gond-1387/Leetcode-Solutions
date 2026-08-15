@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
