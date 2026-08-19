@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
 |  |
 | ------- |
