@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
