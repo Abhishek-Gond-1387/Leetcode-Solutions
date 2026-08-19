@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
