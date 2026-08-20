@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1859-sorting-the-sentence](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
 |  |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
