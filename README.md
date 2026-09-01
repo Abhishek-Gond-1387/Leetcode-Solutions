@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Math
 |  |
