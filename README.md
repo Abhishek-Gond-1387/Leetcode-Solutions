@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
