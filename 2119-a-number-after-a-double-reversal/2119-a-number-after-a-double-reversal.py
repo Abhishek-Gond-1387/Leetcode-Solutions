@@ -11,7 +11,8 @@ class Solution(object):
 
         #2nd var
 
-        return num == int(str(int(str(num)[::-1]))[::-1])
+        #return num == int(str(int(str(num)[::-1]))[::-1])
 
+        #3 var
 
-
+        return num == 0 or num % 10 != 0
