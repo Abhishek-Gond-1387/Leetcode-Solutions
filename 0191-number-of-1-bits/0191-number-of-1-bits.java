@@ -15,5 +15,18 @@ class Solution {
             n>>=1;
         }
         return count;
+
+        //1011
+        //0001
+        //-----
+        //0001 --> count = 1
+        //0101
+        //-----
+        //0001 --> count = 2
+        //0010
+        //-----
+        //0000 --> count = 3
+
+        // # Chacha hamare vidhayak hai 
     }
 }
