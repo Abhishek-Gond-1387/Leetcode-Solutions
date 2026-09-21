@@ -15,7 +15,9 @@ class NumArray {
         if(left == 0){
             return prefix[right];
         }
-        return prefix[right]-prefix[left-1]; 
+        else{
+            return prefix[right]-prefix[left-1];
+        } 
     }
 }
 
