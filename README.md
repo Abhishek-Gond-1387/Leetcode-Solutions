@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -205,8 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
