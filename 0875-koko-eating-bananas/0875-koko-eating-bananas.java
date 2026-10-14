@@ -6,15 +6,15 @@ class Solution {
             end = Math.max(end, pile);
         }
         int ans = end;
-        while(st <= end){
-            int mid = st + (end - st) / 2;
+        while(st<=end){
+            int mid = st + (end - st)/2;
             long hours = 0;
             for(int pile : piles){
-                hours += (pile - 1L) / mid + 1;
+                hours += (pile - 1)/mid + 1;
             }
-            if(hours <= h){
+            if(hours<=h){
                 ans = mid;
-                end = mid - 1;
+                end = mid-1;
             }else{
                 st = mid + 1;
             }
