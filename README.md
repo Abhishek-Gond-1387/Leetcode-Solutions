@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
