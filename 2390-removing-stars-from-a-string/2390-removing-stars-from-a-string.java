@@ -9,13 +9,13 @@ class Solution {
                 stack.push(s.charAt(i));
             }
         }
-        String str = "";
+        StringBuilder str = new StringBuilder();
         if(stack.isEmpty()){
-            return str;
+            return str.toString();
         }
         for(char ch : stack){
-            str+=ch;
+            str.append(ch);
         }
-        return str;
+        return str.toString();
     }
 }
