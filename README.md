@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishek-Gond-1387/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
